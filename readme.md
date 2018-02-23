@@ -16,3 +16,6 @@ Hade Platform Bitcoin and Ethereum
 - /public/js/chart.js
 - /routes/api.php
 - /resources/views/welcome.blade.php (HTML file)
+
+## The exercise is hosted at
+https://hade.scogee.com
